@@ -1,8 +1,8 @@
 
 ## 这是 Adiandroky 的主页
-<!--
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=28778&show_icons=true&theme=gruvbox) 
--->
+<img align="right" width="210" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/astronaut.png" />
 
 ### 正在学习
 ![Visual Studio Code Badge](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?logo=visualstudiocode&logoColor=fff&style=flat)
