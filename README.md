@@ -1,5 +1,7 @@
 ## 您好，我是Adiandroky，一名在校大学生，欢迎来到我的Github主页。
 
+![未标题-1](https://github.com/28778/28778/assets/31039562/5acc9c67-d080-433b-bc82-45b22e92e4e2)
+
 <img width="200%" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/hr.gif" />
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=28778&show_icons=true&theme=gruvbox) 
