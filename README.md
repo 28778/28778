@@ -1,4 +1,4 @@
-## 你好，我是Adiandroky，一名设计师。
+## 您好，我是Adiandroky，一名在校大学生，欢迎来到我的Github主页。
 
 <img width="200%" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/hr.gif" />
 
@@ -32,7 +32,9 @@
 
 <img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/icon.png" /></div>
 
+
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=28778&layout=compact)](https://github.com/anuraghazra/github-readme-stats) 
+
 [![示例](图标地址)](跳转地址)
 -->
 
