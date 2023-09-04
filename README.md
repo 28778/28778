@@ -16,11 +16,16 @@
 </div>
 <img width="200%" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/hr.gif" />
 
-### 📖正在学习
+### 📖计算机-正在学习
 ![Visual Studio Code Badge](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?logo=visualstudiocode&logoColor=fff&style=flat)
 ![kali](https://img.shields.io/badge/Kali_linux-white?logo=kalilinux)
 ![PHP Badge](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=fff&style=flat)
 ![Python Badge](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff&style=flat)
+
+### 👩‍💻设计-正在学习
+![PS](https://img.shields.io/badge/PhotoShop-white?logo=adobephotoshop)
+![PR](https://img.shields.io/badge/PremierePro-white?logo=adobepremierepro)
+![OFFICE](https://img.shields.io/badge/MS_Office-purple?logo=microsoftoffice)
 
 <img width="200%" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/hr.gif" />
 
