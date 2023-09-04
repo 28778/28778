@@ -4,7 +4,9 @@
 
 <img width="200%" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/hr.gif" />
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=28778&show_icons=true&theme=gruvbox) 
+<img align="left" width="210" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/technologist.png" />
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=28778&show_icons=true&theme=tokyonight) 
 <img align="right" width="210" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/astronaut.png" />
 <img width="200%" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/hr.gif" />
 
