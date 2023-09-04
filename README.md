@@ -16,9 +16,11 @@
 </div>
 <img width="200%" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/hr.gif" />
 
-## 😁我正在学习：
+<div align="center">
+  
+# -== 我正学这些 ==-
 
-### 📖计算机
+## 📖计算机   
 
 ![Debian](https://img.shields.io/badge/Debian-mediumvioletred?logo=debian)
 ![Visual Studio Code Badge](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?logo=visualstudiocode&logoColor=fff&style=flat)
@@ -26,7 +28,10 @@
 ![PHP Badge](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=fff&style=flat)
 ![Python Badge](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff&style=flat)
 
-### 👩‍💻设计
+
+
+## 👩‍💻设计   
+
 ![UI](https://img.shields.io/badge/Autodesk-CAD-red?logo=autodesk)
 ![PS](https://img.shields.io/badge/PhotoShop-white?logo=adobephotoshop)
 ![PR](https://img.shields.io/badge/PremierePro-white?logo=adobepremierepro)
@@ -34,10 +39,12 @@
 
 <img width="200%" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/hr.gif" />
 
-### 🪧社交账号
+## 🪧社交账号
 [![Qzone](https://img.shields.io/badge/Qzone-URL_Here-green?logo=tencentqq)](https://user.qzone.qq.com/3144246415/main)
 [![blogs](https://img.shields.io/badge/blogs-Not_yet_open-white?logo=atom)](none)
 ![WeChat](https://img.shields.io/badge/WeChat-Not_yet_open-white?logo=wechat)
+
+</div>
 
 <img width="200%" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/hr.gif" />
 
