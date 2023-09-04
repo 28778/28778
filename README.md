@@ -1,6 +1,6 @@
 ## 您好，我是Adiandroky，一名在校大学生，欢迎来到我的Github主页。
 
-![未标题-1](https://github.com/28778/28778/assets/31039562/5acc9c67-d080-433b-bc82-45b22e92e4e2)
+![未标题-1](https://github.com/28778/28778/assets/31039562/b03d6177-737a-4b00-a525-4d78be977988)
 
 <img width="200%" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/hr.gif" />
 
