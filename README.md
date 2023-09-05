@@ -25,7 +25,7 @@
 
 <div align="center">
   
-#    `I am trying to learn the following things`
+#    `我正在学习和使用这些`
 
 ## 📖计算机/Computer technology
 
