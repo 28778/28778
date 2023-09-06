@@ -10,6 +10,9 @@
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=28778&show_icons=true&theme=tokyonight" />
 </a>
+
+
+
 <img align="right" width="210" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/astronaut.png" />
 <img width="200%" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/hr.gif" />
 
@@ -35,6 +38,7 @@
 ![PHP Badge](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=fff&style=flat)
 ![Python Badge](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff&style=flat)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=28778&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ## 👩‍💻设计/Design
