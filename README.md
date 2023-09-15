@@ -36,7 +36,7 @@
 
 ![Debian](https://img.shields.io/badge/Debian-mediumvioletred?logo=debian)
 ![Visual Studio Code Badge](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?logo=visualstudiocode&logoColor=fff&style=flat)
-![kali](https://img.shields.io/badge/Kali_linux-white?logo=kalilinux)
+![kali](https://img.shields.io/badge/Kali_Linux-white?logo=kalilinux)
 ![PHP Badge](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=fff&style=flat)
 ![Python Badge](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff&style=flat)
 
